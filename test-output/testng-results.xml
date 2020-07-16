@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="23636" started-at="2020-07-11T21:26:30 EDT" finished-at="2020-07-11T21:26:54 EDT">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="23636" started-at="2020-07-11T21:26:30 EDT" finished-at="2020-07-11T21:26:54 EDT">
+      <class name="com.OrangeHRM.testcases.HomePageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.OrangeHRM.testcases.HomePageTest@68bbe345]" name="setup" is-config="true" duration-ms="5825" started-at="2020-07-11T21:26:44 EDT" finished-at="2020-07-11T21:26:50 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="clickOnAdminTab()[pri:3, instance:com.OrangeHRM.testcases.HomePageTest@68bbe345]" name="clickOnAdminTab" duration-ms="3755" started-at="2020-07-11T21:26:50 EDT" finished-at="2020-07-11T21:26:54 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnAdminTab -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.OrangeHRM.testcases.HomePageTest@68bbe345]" name="tearDown" is-config="true" duration-ms="50" started-at="2020-07-11T21:26:54 EDT" finished-at="2020-07-11T21:26:54 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.OrangeHRM.testcases.HomePageTest -->
+      <class name="com.OrangeHRM.testcases.LoginPageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.OrangeHRM.testcases.LoginPageTest@a7e666]" name="setup" is-config="true" duration-ms="6581" started-at="2020-07-11T21:26:30 EDT" finished-at="2020-07-11T21:26:37 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="LogoTest()[pri:1, instance:com.OrangeHRM.testcases.LoginPageTest@a7e666]" name="LogoTest" duration-ms="66" started-at="2020-07-11T21:26:37 EDT" finished-at="2020-07-11T21:26:37 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogoTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.OrangeHRM.testcases.LoginPageTest@a7e666]" name="tearDown" is-config="true" duration-ms="75" started-at="2020-07-11T21:26:37 EDT" finished-at="2020-07-11T21:26:37 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.OrangeHRM.testcases.LoginPageTest@a7e666]" name="setup" is-config="true" duration-ms="5929" started-at="2020-07-11T21:26:37 EDT" finished-at="2020-07-11T21:26:43 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginTest()[pri:2, instance:com.OrangeHRM.testcases.LoginPageTest@a7e666]" name="loginTest" duration-ms="1252" started-at="2020-07-11T21:26:43 EDT" finished-at="2020-07-11T21:26:44 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.OrangeHRM.testcases.LoginPageTest@a7e666]" name="tearDown" is-config="true" duration-ms="62" started-at="2020-07-11T21:26:44 EDT" finished-at="2020-07-11T21:26:44 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.OrangeHRM.testcases.LoginPageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
